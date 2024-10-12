@@ -1,4 +1,4 @@
-<h1 align="center">Cat Gallery</h1>
+<h1 align="center"><a href="https://g-0gan.github.io/cat_gallery/">Cat Gallery</a></h1>
 
 <p align="center">
     <img src="image-1.png" alt="cat_gallery example" />
