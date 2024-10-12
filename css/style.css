@@ -1,0 +1,53 @@
+html, body {
+    height: 100%; /* 100% height */
+    margin: 0; /* Remove margins */
+    display: flex; /* Flexbox */
+    flex-direction: column; /* Vertical layout */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    font-family: Arial, sans-serif; /* Font */
+    background-color: #6a5acd; /* Calm violet color (Slate Blue) */
+}
+
+h1 {
+    margin: 20px 0; /* Margin below the heading */
+    text-align: center; /* Center text */
+    color: #ffffff; /* White color for the heading */
+}
+
+p {
+    margin: 20px 0; /* Margin below the paragraph */
+    text-align: center; /* Center text */
+    color: #e0e0e0; /* Light gray color for text */
+    font-size: 18px; /* Font size for paragraphs */
+}
+
+#cat-container {
+    margin: 20px auto; /* Center the container */
+    text-align: center; /* Center content */
+}
+
+#cat-img {
+    border: 2px solid #ffffff; /* White border around the image */
+    padding: 10px; /* Padding inside the border */
+    background-color: #fff; /* White background for the image */
+    width: 300px; /* Fixed width to reduce image size */
+    height: auto; /* Auto height to maintain proportions */
+    border-radius: 8px; /* Rounded corners for the image */
+}
+
+input {
+    padding: 10px; /* Padding */
+    font-size: 18px; /* Font size */
+    width: 200px; /* Fixed width */
+    text-align: center; /* Center text inside the field */
+    border: 2px solid #4caf50; /* Green border for the input field */
+    border-radius: 5px; /* Rounded corners for input */
+    background-color: #f1f8e9; /* Light green background for input */
+    color: #333; /* Dark gray color for text */
+}
+
+input:focus {
+    border-color: #388e3c; /* Darker green color on focus */
+    outline: none; /* Remove default outline */
+}
