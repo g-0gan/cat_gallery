@@ -1,29 +1,27 @@
-# Cat Image Fetcher
+<h1 align="center">Cat Gallery</h1>
 
-![cat_gallery example](image-1.png)
-This is a simple web application that fetches random cat images from The Cat API and displays them on the page. Users can set the interval for how often a new image should be fetched.
+<p align="center">
+    <img src="image-1.png" alt="cat_gallery example" />
+</p>
 
-## Features
+<p align="center">
+    This is a simple web application that fetches random cat images from The Cat API and displays them on the page. Users can set the interval for how often a new image should be fetched.
+</p>
 
-- Fetches random cat images from The Cat API.
-- Displays the total number of images fetched.
-- Allows users to set a custom interval for fetching images.
-- Responsive design with a user-friendly interface.
+<h2 align="center">Features</h2>
 
-## Technologies Used
+<ul>
+    <li>Fetches random cat images from The Cat API.</li>
+    <li>Displays the total number of images fetched.</li>
+    <li>Allows users to set a custom interval for fetching images.</li>
+    <li>Responsive design with a user-friendly interface.</li>
+</ul>
 
-- HTML
-- CSS
-- JavaScript
-- The Cat API
+<h2 align="center">Technologies Used</h2>
 
-## Getting Started
-
-To run this application locally:
-
-1. Clone the repository:
-   ```bash
-   git clone 
-   cd cat-image-fetcher
-
-
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>The Cat API</li>
+</ul>
